@@ -1,0 +1,6 @@
+ID|Name|Price|Stock|Sales
+1|Apple iPhone 14|5999|100|10
+2|Samsung Galaxy S23|4999|50|5
+3|Xiaomi 13|3999|200|20
+4|Huawei Mate 50|5499|80|15
+5|Sony WH-1000XM5|2499|30|2

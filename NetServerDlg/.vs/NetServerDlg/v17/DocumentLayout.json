@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp\\NetServerDlg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689DF4B5-CBCD-6343-A7B3-D30AB5E756E2}|NetServerDlg.vcxproj|D:\\cpp\\NetServerDlg\\NetServerDlg.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{689DF4B5-CBCD-6343-A7B3-D30AB5E756E2}|NetServerDlg.vcxproj|solutionrelative:NetServerDlg.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetServerDlg.rc - IDD_NETSERVERDLG_DIALOG - Dialog",
+              "DocumentMoniker": "D:\\cpp\\NetServerDlg\\NetServerDlg.rc",
+              "RelativeDocumentMoniker": "NetServerDlg.rc",
+              "ToolTip": "D:\\cpp\\NetServerDlg\\NetServerDlg.rc - IDD_NETSERVERDLG_DIALOG - Dialog",
+              "RelativeToolTip": "NetServerDlg.rc - IDD_NETSERVERDLG_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-04T14:14:58.652Z",
+              "EditorCaption": " - IDD_NETSERVERDLG_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

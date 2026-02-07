@@ -1,0 +1,53 @@
+# 代码阅读最佳路径 (Code Reading Path)
+
+对于 RealCtrl 这样一个基于 MFC 的实时控制系统，推荐的阅读顺序不是按照文件名的 A-Z，而是按照**数据流向**和**核心逻辑**。
+
+建议从 **`CRealCtrlDoc`** 开始，它是整个系统的核心枢纽。
+
+以下是详细的五步阅读法：
+
+## 第一站：核心枢纽 —— `CRealCtrlDoc` (大脑)
+*   **文件**: [RealCtrlDoc.h](RealCtrlDoc.h) / [RealCtrlDoc.cpp](RealCtrlDoc.cpp)
+*   **为什么先看它？**
+    它是整个项目的“大脑”。所有的控制算法对象、系统全局状态、线程指针都在这里定义。如果不了解它，看其他类都会找不到上下文。
+*   **重点关注**:
+    *   **成员变量**: `SYSINFO m_SysInfo` (系统当前状态，如当前值、给定值), `CPID m_Pid` (算法对象), `CDcsThread* m_pDcsThread` (工作线程)。
+    *   **核心函数**: `Control()` (控制逻辑入口), `Sample()` (采样逻辑入口)。
+    *   **理解**: 它是如何根据 `m_Algrithem` 变量来调度不同的算法类，以及如何保存数据的。
+
+## 第二站：动力心脏 —— `CDcsThread` (心脏)
+*   **文件**: [DcsThreads.h](DcsThreads.h) / [DcsThreads.cpp](DcsThreads.cpp)
+*   **为什么看它？**
+    它是系统的“脉搏”。实时控制系统必须动起来，这个线程就是动力源。
+*   **重点关注**:
+    *   `Run()` 函数中的 `while` 循环。
+    *   看到它是如何周期性调用 `m_pDoc->Sample()` 和 `m_pDoc->Control()` 的。
+    *   注意它是如何通过 `PostMessage` 通知界面刷新的。
+
+## 第三站：算法实现 —— `CPID` (思维)
+*   **文件**: [Pid.h](Pid.h) / [Pid.cpp](Pid.cpp)
+*   **为什么看它？**
+    了解具体的数学逻辑是如何落地的。这是你最容易修改和模仿的部分。
+*   **重点关注**:
+    *   `OutValueCalculate()` 函数。
+    *   看它如何读取 `SYSINFO` 中的误差，计算出 P、I、D 三项，最后输出控制量。
+
+## 第四站：底层驱动 —— `CDataAquisit` (手脚)
+*   **文件**: [PsADCtrl/DataAquisit.cpp](PsADCtrl/DataAquisit.cpp)
+*   **为什么看它？**
+    了解数据从哪里来，到哪里去。
+*   **重点关注**:
+    *   `DoSampl()`: 模拟或真实的硬件读取。
+    *   `Coordinate()`: 二进制数转工程量（电压/温度）的计算公式。
+
+## 第五站：界面显示 —— `CRealCtrlView` & `Element` (脸面)
+*   **文件**: [RealCtrlView.cpp](RealCtrlView.cpp)
+*   **为什么最后看？**
+    界面只是数据的影子。理解了数据流后，再看界面是如何把 `SYSINFO` 画出来的就很容易了。
+*   **重点关注**:
+    *   `OnTimer` 或 `OnUpdate`: 界面刷新的触发点。
+    *   `m_pGridScreen->DrawCurve(...)`: 曲线是怎么画出来的。
+
+---
+**总结路径**:
+`CRealCtrlDoc` (大脑) -> `CDcsThread` (心脏) -> `CPID` (具体思维) -> `CDataAquisit` (手脚) -> `CRealCtrlView` (脸面)。

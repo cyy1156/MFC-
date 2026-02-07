@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "& 'D:\\vc2\\MSBuild\\Current\\Bin\\MSBuild.exe'",
+      "args": [
+        "MFCApplication1.sln",
+        "/t:Build",
+        "/p:Configuration=Debug",
+        "/p:Platform=x64"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
