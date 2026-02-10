@@ -1,21 +1,21 @@
-# 第一步：先排除所有文件和目录（* 匹配所有）
+
 *
 
-# 第二步：取消排除 .gitignore 本身（必须保留，否则规则失效）
+
 !.gitignore
 
-# 第三步：取消排除你要上传的文件夹（末尾加 / 表示目录）
+
 !SaleSystem/
 
-# 第四步：如果需要上传该文件夹下的所有内容，再添加这行
+
 !SaleSystem/**/*
-# Visual Studio 编译输出目录
+
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
 
-# 预编译头、调试文件
+
 *.pch
 *.pdb
 *.idb
@@ -24,14 +24,14 @@ x86/
 *.tlog
 *.log
 
-# VS 配置与缓存
+.vs/
 .vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# 可执行文件与库
+
 *.exe
 *.dll
 *.lib
