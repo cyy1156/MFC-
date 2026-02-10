@@ -32,4 +32,7 @@ public:
 	afx_msg void OnBnClickedButton2();
 	virtual void OnOK();
 	afx_msg void OnClose();
+	afx_msg BOOL OnEraseBkgnd(CDC* pDC);
+	afx_msg HBRUSH OnCtlColor(CDC* pDC, CWnd* pWnd, UINT nCtlColor);
+	COLORREF m_staticColor; // 静态文本颜色
 };

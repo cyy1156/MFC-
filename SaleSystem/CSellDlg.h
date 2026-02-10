@@ -40,6 +40,8 @@ private:
 	CString m_sellinfor;
 public:
 	virtual void OnInitialUpdate();
+	afx_msg void OnBnClickedButton3();
+	afx_msg void OnBnClickedButton4();
 };
 
 

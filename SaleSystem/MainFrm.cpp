@@ -11,6 +11,9 @@
 #include"CDisplayView.h"
 #include "CUserDlg.h"
 #include"CSellDlg.h"
+#include"CAddDlg.h"
+#include"CDeleteDlg.h"
+#include"CDialogShow.h"
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
@@ -162,15 +165,42 @@ LRESULT CMainFrame::OnMyChange(WPARAM wParam, LPARAM lParam)
 	}
 	else if (wParam == NM_C)
 	{
-		m_spliter.GetPane(0, 1)->SendMessage(NM_C);
+		//m_spliter.GetPane(0, 1)->SendMessage(NM_C);
+		Context.m_pNewViewClass = RUNTIME_CLASS(CDialogShow);
+		Context.m_pCurrentFrame = this;
+		Context.m_pLastView = (CFormView*)m_spliter.GetPane(0, 1);
+		m_spliter.DeleteView(0, 1);
+		m_spliter.CreateView(0, 1, RUNTIME_CLASS(CDialogShow), CSize(600, 500), &Context);
+		CDialogShow* pNewView = (CDialogShow*)m_spliter.GetPane(0, 1);
+		m_spliter.RecalcLayout();
+		pNewView->OnInitialUpdate();
+		m_spliter.SetActivePane(0, 1);
 	}
 	else if (wParam == NM_D)
 	{
-		m_spliter.GetPane(0, 1)->SendMessage(NM_D);
+		//m_spliter.GetPane(0, 1)->SendMessage(NM_D);
+		Context.m_pNewViewClass = RUNTIME_CLASS(CAddDlg);
+		Context.m_pCurrentFrame = this;
+		Context.m_pLastView = (CFormView*)m_spliter.GetPane(0, 1);
+		m_spliter.DeleteView(0, 1);
+		m_spliter.CreateView(0, 1, RUNTIME_CLASS(CAddDlg), CSize(600, 500), &Context);
+		CAddDlg* pNewView = (CAddDlg*)m_spliter.GetPane(0, 1);
+		m_spliter.RecalcLayout();
+		pNewView->OnInitialUpdate();
+		m_spliter.SetActivePane(0, 1);
 	}
 	else if (wParam == NM_E)
 	{
-		m_spliter.GetPane(0, 1)->SendMessage(NM_E);
+		//m_spliter.GetPane(0, 1)->SendMessage(NM_E);
+		Context.m_pNewViewClass = RUNTIME_CLASS(CDeleteDlg);
+		Context.m_pCurrentFrame = this;
+		Context.m_pLastView = (CFormView*)m_spliter.GetPane(0, 1);
+		m_spliter.DeleteView(0, 1);
+		m_spliter.CreateView(0, 1, RUNTIME_CLASS(CDeleteDlg), CSize(600, 500), &Context);
+		CDeleteDlg* pNewView = (CDeleteDlg*)m_spliter.GetPane(0, 1);
+		m_spliter.RecalcLayout();
+		pNewView->OnInitialUpdate();
+		m_spliter.SetActivePane(0, 1);
 	}
 	return 0;
 }

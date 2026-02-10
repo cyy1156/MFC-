@@ -183,6 +183,9 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CAddDlg.h" />
+    <ClInclude Include="CDeleteDlg.h" />
+    <ClInclude Include="CDialogShow.h" />
     <ClInclude Include="CDisplayView.h" />
     <ClInclude Include="CInfoFile.h" />
     <ClInclude Include="CLoginDlg.h" />
@@ -199,6 +202,9 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CAddDlg.cpp" />
+    <ClCompile Include="CDeleteDlg.cpp" />
+    <ClCompile Include="CDialogShow.cpp" />
     <ClCompile Include="CDisplayView.cpp" />
     <ClCompile Include="CInfoFile.cpp" />
     <ClCompile Include="CLoginDlg.cpp" />
@@ -226,6 +232,7 @@
   <ItemGroup>
     <Image Include="res\icon1.ico" />
     <Image Include="res\icon2.ico" />
+    <Image Include="res\LoginBG.bmp" />
     <Image Include="res\re.ico" />
     <Image Include="res\SaleSystem.ico" />
     <Image Include="res\SaleSystemDoc.ico" />

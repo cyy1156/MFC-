@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "D:\\cpp\\SaleSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CInfoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CInfoFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CLoginDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CLoginDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CSellDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CSellDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CLoginDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CLoginDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CSellDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CSellDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CInfoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CInfoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % Z!$(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % Z!$(  \u0022     "
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % e!$(  \u0022     ",
       "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % e!$(  \u0022     "
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CSelectView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CSelectView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % g!$(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % g!$(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CDialogShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CDialogShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CDialogShow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CDialogShow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % k!$(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:SaleSystem.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % k!$(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CInfoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CInfoFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\MainFrm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:MainFrm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CDeleteDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CDeleteDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CDeleteDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CDeleteDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\MainFrm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:MainFrm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CAddDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CAddDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CUserDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CUserDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CSellDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CSellDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|D:\\cpp\\SaleSystem\\CSelectView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB7DB873-3E2F-39C0-2264-C1DDFEB540B7}|SaleSystem.vcxproj|solutionrelative:CSelectView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 93,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,17 +97,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CInfoFile.cpp",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CInfoFile.cpp",
-              "RelativeDocumentMoniker": "CInfoFile.cpp",
-              "ToolTip": "D:\\cpp\\SaleSystem\\CInfoFile.cpp",
-              "RelativeToolTip": "CInfoFile.cpp",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-06T09:00:26.377Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
             },
             {
               "$type": "Bookmark",
@@ -75,46 +106,199 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CSellDlg.h",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CSellDlg.h",
-              "RelativeDocumentMoniker": "CSellDlg.h",
-              "ToolTip": "D:\\cpp\\SaleSystem\\CSellDlg.h",
-              "RelativeToolTip": "CSellDlg.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CLoginDlg.h",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CLoginDlg.h",
+              "RelativeDocumentMoniker": "CLoginDlg.h",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CLoginDlg.h",
+              "RelativeToolTip": "CLoginDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-06T06:17:49.613Z",
+              "WhenOpened": "2026-02-10T08:51:39.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CSellDlg.cpp",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CSellDlg.cpp",
-              "RelativeDocumentMoniker": "CSellDlg.cpp",
-              "ToolTip": "D:\\cpp\\SaleSystem\\CSellDlg.cpp",
-              "RelativeToolTip": "CSellDlg.cpp",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAxwGUAAAAfAAAAAAAAAA==",
+              "Title": "CLoginDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CLoginDlg.cpp",
+              "RelativeDocumentMoniker": "CLoginDlg.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CLoginDlg.cpp",
+              "RelativeToolTip": "CLoginDlg.cpp",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAqwBEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-06T06:18:31.945Z",
+              "WhenOpened": "2026-02-10T08:42:38.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleSystem.rc - IDD_DIALOG_LOGIN - Dialog",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\SaleSystem.rc",
+              "RelativeDocumentMoniker": "SaleSystem.rc",
+              "ToolTip": "D:\\cpp\\SaleSystem\\SaleSystem.rc - IDD_DIALOG_LOGIN - Dialog",
+              "RelativeToolTip": "SaleSystem.rc - IDD_DIALOG_LOGIN - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-10T08:32:35.696Z",
+              "EditorCaption": " - IDD_DIALOG_LOGIN - Dialog"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\SaleSystem.rc",
+              "RelativeDocumentMoniker": "SaleSystem.rc",
+              "ToolTip": "D:\\cpp\\SaleSystem\\SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
+              "RelativeToolTip": "SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-09T15:24:27.719Z",
+              "EditorCaption": " - IDD_DIALOG_SELL - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleSystem.rc - IDD_DIALOG_Insert - Dialog",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\SaleSystem.rc",
+              "RelativeDocumentMoniker": "SaleSystem.rc",
+              "ToolTip": "D:\\cpp\\SaleSystem\\SaleSystem.rc - IDD_DIALOG_Insert - Dialog",
+              "RelativeToolTip": "SaleSystem.rc - IDD_DIALOG_Insert - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-09T15:24:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CDeleteDlg.h",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CDeleteDlg.h",
+              "RelativeDocumentMoniker": "CDeleteDlg.h",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CDeleteDlg.h",
+              "RelativeToolTip": "CDeleteDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T12:02:22.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CInfoFile.h",
               "DocumentMoniker": "D:\\cpp\\SaleSystem\\CInfoFile.h",
               "RelativeDocumentMoniker": "CInfoFile.h",
               "ToolTip": "D:\\cpp\\SaleSystem\\CInfoFile.h",
               "RelativeToolTip": "CInfoFile.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAA3wBgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-06T08:58:50.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-07T06:10:10.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleSystem.rc - IDD_DIALOG_Show - Dialog",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\SaleSystem.rc",
+              "RelativeDocumentMoniker": "SaleSystem.rc",
+              "ToolTip": "D:\\cpp\\SaleSystem\\SaleSystem.rc - IDD_DIALOG_Show - Dialog",
+              "RelativeToolTip": "SaleSystem.rc - IDD_DIALOG_Show - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-09T14:40:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CDialogShow.h",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CDialogShow.h",
+              "RelativeDocumentMoniker": "CDialogShow.h",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CDialogShow.h",
+              "RelativeToolTip": "CDialogShow.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T14:36:37.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CDialogShow.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CDialogShow.cpp",
+              "RelativeDocumentMoniker": "CDialogShow.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CDialogShow.cpp",
+              "RelativeToolTip": "CDialogShow.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAzwD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T14:37:35.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainFrm.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\MainFrm.cpp",
+              "RelativeDocumentMoniker": "MainFrm.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\MainFrm.cpp",
+              "RelativeToolTip": "MainFrm.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAzwK8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T07:30:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CDeleteDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CDeleteDlg.cpp",
+              "RelativeDocumentMoniker": "CDeleteDlg.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CDeleteDlg.cpp",
+              "RelativeToolTip": "CDeleteDlg.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAzwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T09:30:50.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainFrm.h",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\MainFrm.h",
+              "RelativeDocumentMoniker": "MainFrm.h",
+              "ToolTip": "D:\\cpp\\SaleSystem\\MainFrm.h",
+              "RelativeToolTip": "MainFrm.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-08T13:27:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CAddDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CAddDlg.cpp",
+              "RelativeDocumentMoniker": "CAddDlg.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CAddDlg.cpp",
+              "RelativeToolTip": "CAddDlg.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAA3wH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-07T07:33:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CUserDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CUserDlg.cpp",
+              "RelativeDocumentMoniker": "CUserDlg.cpp",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CUserDlg.cpp",
+              "RelativeToolTip": "CUserDlg.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAA3wDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-06T01:43:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CSellDlg.h",
+              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CSellDlg.h",
+              "RelativeDocumentMoniker": "CSellDlg.h",
+              "ToolTip": "D:\\cpp\\SaleSystem\\CSellDlg.h",
+              "RelativeToolTip": "CSellDlg.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-06T06:17:49.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CSelectView.h",
               "DocumentMoniker": "D:\\cpp\\SaleSystem\\CSelectView.h",
               "RelativeDocumentMoniker": "CSelectView.h",
@@ -123,30 +307,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-06T01:39:51.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\SaleSystem.rc",
-              "RelativeDocumentMoniker": "SaleSystem.rc",
-              "ToolTip": "D:\\cpp\\SaleSystem\\SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
-              "RelativeToolTip": "SaleSystem.rc - IDD_DIALOG_SELL - Dialog",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-06T06:18:29.961Z",
-              "EditorCaption": " - IDD_DIALOG_SELL - Dialog"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CUserDlg.cpp",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\CUserDlg.cpp",
-              "RelativeDocumentMoniker": "CUserDlg.cpp",
-              "ToolTip": "D:\\cpp\\SaleSystem\\CUserDlg.cpp",
-              "RelativeToolTip": "CUserDlg.cpp",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAawHkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-06T01:43:08.009Z"
             }
           ]
         }

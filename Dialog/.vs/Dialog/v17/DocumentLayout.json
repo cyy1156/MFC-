@@ -3,16 +3,46 @@
   "WorkspaceRootPath": "D:\\cpp\\Dialog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EFBC4B5-5775-D855-AAB5-03E269EE738B}|..\\CDpicure\\CDpicure.vcxproj|D:\\cpp\\CDpicure\\CDpicureDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBC4B5-5775-D855-AAB5-03E269EE738B}|..\\CDpicure\\CDpicure.vcxproj|D:\\cpp\\CDpicure\\CDpicure.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBC4B5-5775-D855-AAB5-03E269EE738B}|..\\CDpicure\\CDpicure.vcxproj|D:\\cpp\\CDpicure\\res\\BG.bmp||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBC4B5-5775-D855-AAB5-03E269EE738B}|..\\CDpicure\\CDpicure.vcxproj|D:\\cpp\\CDpicure\\res\\\u841D\u535C\u9648.bmp||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFBC4B5-5775-D855-AAB5-03E269EE738B}|..\\CDpicure\\CDpicure.vcxproj|D:\\cpp\\CDpicure\\CDpicureDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\CDialogbgDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\CDialogbgDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\CDialogbg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\CDialogbg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\res\\BG2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A489BE47-3E0C-2EFE-DFBC-506BE5F94CEF}|..\\CDialogbg\\CDialogbg.vcxproj|D:\\cpp\\CDialogbg\\CDialogbg.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4554918A-944D-09BA-C40A-444587FBAB27}|..\\ListCtrl\\ListCtrl.vcxproj|D:\\cpp\\ListCtrl\\ListCtrl.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D0F18B9-D8B9-FCE7-96DA-7BEA33202619}|..\\CTabCtrl\\CTabCtrl.vcxproj|D:\\cpp\\CTabCtrl\\CTabCtrlDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0F18B9-D8B9-FCE7-96DA-7BEA33202619}|..\\CTabCtrl\\CTabCtrl.vcxproj|D:\\cpp\\CTabCtrl\\CTabCtrl.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u00A1 $(  \u0022     "
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10494C38-3232-3E30-6F9A-EE4EC9367AE7}|..\\CTreeCtrl\\CTreeCtrl.vcxproj|D:\\cpp\\SaleSystem\\res\\single1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10494C38-3232-3E30-6F9A-EE4EC9367AE7}|..\\CTreeCtrl\\CTreeCtrl.vcxproj|D:\\cpp\\SaleSystem\\res\\single2.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D0F18B9-D8B9-FCE7-96DA-7BEA33202619}|..\\CTabCtrl\\CTabCtrl.vcxproj|D:\\cpp\\CTabCtrl\\CTabCtrlDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -37,7 +67,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 93,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,42 +88,167 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "single2.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\res\\single2.ico",
-              "RelativeDocumentMoniker": "..\\SaleSystem\\res\\single2.ico",
-              "ToolTip": "D:\\cpp\\SaleSystem\\res\\single2.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "RelativeToolTip": "..\\SaleSystem\\res\\single2.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2026-02-04T16:24:32.924Z",
-              "EditorCaption": " - Icon [32x32, 32 \u4F4D, BMP]"
+              "Title": "\u841D\u535C\u9648.bmp - Bitmap [200x200, 24 \u4F4D, BMP]",
+              "DocumentMoniker": "D:\\cpp\\CDpicure\\res\\\u841D\u535C\u9648.bmp",
+              "RelativeDocumentMoniker": "..\\CDpicure\\res\\\u841D\u535C\u9648.bmp",
+              "ToolTip": "D:\\cpp\\CDpicure\\res\\\u841D\u535C\u9648.bmp - Bitmap [200x200, 24 \u4F4D, BMP]",
+              "RelativeToolTip": "..\\CDpicure\\res\\\u841D\u535C\u9648.bmp - Bitmap [200x200, 24 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-10T08:20:46.328Z",
+              "EditorCaption": " - Bitmap [200x200, 24 \u4F4D, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDpicureDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\CDpicure\\CDpicureDlg.cpp",
+              "RelativeDocumentMoniker": "..\\CDpicure\\CDpicureDlg.cpp",
+              "ToolTip": "D:\\cpp\\CDpicure\\CDpicureDlg.cpp*",
+              "RelativeToolTip": "..\\CDpicure\\CDpicureDlg.cpp*",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAuwDcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T04:01:56.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "single1.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "DocumentMoniker": "D:\\cpp\\SaleSystem\\res\\single1.ico",
-              "RelativeDocumentMoniker": "..\\SaleSystem\\res\\single1.ico",
-              "ToolTip": "D:\\cpp\\SaleSystem\\res\\single1.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "RelativeToolTip": "..\\SaleSystem\\res\\single1.ico - Icon [32x32, 32 \u4F4D, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2026-02-04T16:24:32.81Z",
-              "EditorCaption": " - Icon [32x32, 32 \u4F4D, BMP]"
+              "Title": "BG.bmp - Bitmap [1637x917, 24 \u4F4D, BMP]",
+              "DocumentMoniker": "D:\\cpp\\CDpicure\\res\\BG.bmp",
+              "RelativeDocumentMoniker": "..\\CDpicure\\res\\BG.bmp",
+              "ToolTip": "D:\\cpp\\CDpicure\\res\\BG.bmp - Bitmap [1637x917, 24 \u4F4D, BMP]",
+              "RelativeToolTip": "..\\CDpicure\\res\\BG.bmp - Bitmap [1637x917, 24 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-10T04:01:13.532Z",
+              "EditorCaption": " - Bitmap [1637x917, 24 \u4F4D, BMP]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CDpicure.rc - IDD_CDPICURE_DIALOG - Dialog",
+              "DocumentMoniker": "D:\\cpp\\CDpicure\\CDpicure.rc",
+              "RelativeDocumentMoniker": "..\\CDpicure\\CDpicure.rc",
+              "ToolTip": "D:\\cpp\\CDpicure\\CDpicure.rc - IDD_CDPICURE_DIALOG - Dialog",
+              "RelativeToolTip": "..\\CDpicure\\CDpicure.rc - IDD_CDPICURE_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-10T03:58:56.594Z",
+              "EditorCaption": " - IDD_CDPICURE_DIALOG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDpicureDlg.h",
+              "DocumentMoniker": "D:\\cpp\\CDpicure\\CDpicureDlg.h",
+              "RelativeDocumentMoniker": "..\\CDpicure\\CDpicureDlg.h",
+              "ToolTip": "D:\\cpp\\CDpicure\\CDpicureDlg.h",
+              "RelativeToolTip": "..\\CDpicure\\CDpicureDlg.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T04:44:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BG2.png - PNG [726x442, 32 \u4F4D, PNG]",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\res\\BG2.png",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\res\\BG2.png",
+              "ToolTip": "D:\\cpp\\CDialogbg\\res\\BG2.png - PNG [726x442, 32 \u4F4D, PNG]",
+              "RelativeToolTip": "..\\CDialogbg\\res\\BG2.png - PNG [726x442, 32 \u4F4D, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-10T02:56:17.883Z",
+              "EditorCaption": " - PNG [726x442, 32 \u4F4D, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CDialogbg.cpp",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\CDialogbg.cpp",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\CDialogbg.cpp",
+              "ToolTip": "D:\\cpp\\CDialogbg\\CDialogbg.cpp",
+              "RelativeToolTip": "..\\CDialogbg\\CDialogbg.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T02:21:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDialogbgDlg.cpp",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\CDialogbgDlg.cpp",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\CDialogbgDlg.cpp",
+              "ToolTip": "D:\\cpp\\CDialogbg\\CDialogbgDlg.cpp",
+              "RelativeToolTip": "..\\CDialogbg\\CDialogbgDlg.cpp",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAAMAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T02:21:41.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CDialogbgDlg.h",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\CDialogbgDlg.h",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\CDialogbgDlg.h",
+              "ToolTip": "D:\\cpp\\CDialogbg\\CDialogbgDlg.h",
+              "RelativeToolTip": "..\\CDialogbg\\CDialogbgDlg.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T02:20:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CDialogbg.h",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\CDialogbg.h",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\CDialogbg.h",
+              "ToolTip": "D:\\cpp\\CDialogbg\\CDialogbg.h",
+              "RelativeToolTip": "..\\CDialogbg\\CDialogbg.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-10T02:19:44.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CDialogbg.rc - IDD_CDIALOGBG_DIALOG - Dialog",
+              "DocumentMoniker": "D:\\cpp\\CDialogbg\\CDialogbg.rc",
+              "RelativeDocumentMoniker": "..\\CDialogbg\\CDialogbg.rc",
+              "ToolTip": "D:\\cpp\\CDialogbg\\CDialogbg.rc - IDD_CDIALOGBG_DIALOG - Dialog",
+              "RelativeToolTip": "..\\CDialogbg\\CDialogbg.rc - IDD_CDIALOGBG_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-10T02:16:23.584Z",
+              "EditorCaption": " - IDD_CDIALOGBG_DIALOG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListCtrl.rc - IDD_LISTCTRL_DIALOG - Dialog",
+              "DocumentMoniker": "D:\\cpp\\ListCtrl\\ListCtrl.rc",
+              "RelativeDocumentMoniker": "..\\ListCtrl\\ListCtrl.rc",
+              "ToolTip": "D:\\cpp\\ListCtrl\\ListCtrl.rc - IDD_LISTCTRL_DIALOG - Dialog",
+              "RelativeToolTip": "..\\ListCtrl\\ListCtrl.rc - IDD_LISTCTRL_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-09T14:26:35.826Z",
+              "EditorCaption": " - IDD_LISTCTRL_DIALOG - Dialog"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CTabCtrl.rc - IDD_DIALOG1 - Dialog",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CTabCtrl.rc",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CTabCtrl.rc",
               "ToolTip": "D:\\cpp\\CTabCtrl\\CTabCtrl.rc - IDD_DIALOG1 - Dialog",
               "RelativeToolTip": "..\\CTabCtrl\\CTabCtrl.rc - IDD_DIALOG1 - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-02T12:59:13.496Z",
-              "EditorCaption": " - IDD_DIALOG1 - Dialog"
+              "WhenOpened": "2026-02-02T12:59:13.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "CTabCtrlDlg.h",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CTabCtrlDlg.h",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CTabCtrlDlg.h",
@@ -101,12 +256,11 @@
               "RelativeToolTip": "..\\CTabCtrl\\CTabCtrlDlg.h",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-02T12:56:10.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T12:56:10.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "CTabCtrlDlg.cpp",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CTabCtrlDlg.cpp",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CTabCtrlDlg.cpp",
@@ -114,24 +268,22 @@
               "RelativeToolTip": "..\\CTabCtrl\\CTabCtrlDlg.cpp",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAGoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T12:51:16.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T12:51:16.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CTabCtrl.rc - IDD_CTABCTRL_DIALOG - Dialog",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CTabCtrl.rc",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CTabCtrl.rc",
               "ToolTip": "D:\\cpp\\CTabCtrl\\CTabCtrl.rc - IDD_CTABCTRL_DIALOG - Dialog",
               "RelativeToolTip": "..\\CTabCtrl\\CTabCtrl.rc - IDD_CTABCTRL_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-02T12:52:12.165Z",
-              "EditorCaption": " - IDD_CTABCTRL_DIALOG - Dialog"
+              "WhenOpened": "2026-02-02T12:52:12.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "CDlg2.h",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CDlg2.h",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CDlg2.h",
@@ -143,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "CDlg1.h",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\CDlg1.h",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\CDlg1.h",
@@ -155,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "TabSheet.cpp",
               "DocumentMoniker": "D:\\cpp\\CTabCtrl\\TabSheet.cpp",
               "RelativeDocumentMoniker": "..\\CTabCtrl\\TabSheet.cpp",

@@ -139,7 +139,7 @@ void CInfoFile::ReadDocLine()
         // Age (库存)
         next_pos = line.find('|', pos);
         if (next_pos == string::npos) continue;
-        data.age = atoi(line.substr(pos, next_pos - pos).c_str());
+        data.num = atoi(line.substr(pos, next_pos - pos).c_str());
         pos = next_pos + 1;
 
         // Count (销量)
@@ -182,7 +182,7 @@ void CInfoFile::WriteDocLine()
             file << it->id << "|"
                 << it->name << "|"
                 << it->price << "|"
-                << it->age << "|"
+                << it->num << "|"
                 << it->count << endl;
         }
     }
@@ -195,9 +195,28 @@ void CInfoFile::AddDocLine(CString name, int num, int price)
     newData.id = ls.empty() ? 1 : ls.back().id + 1;
     newData.name = CT2A(name); // CString 转 std::string
     newData.price = price;
-    newData.age = 0; // 库存默认为0
+    newData.num = num; // 库存默认为0
     newData.count = num; 
     
     ls.push_back(newData);
     this->num = (int)ls.size();
 }
+void CInfoFile::DeleteDocLine(CString name)
+{
+    CInfoFile file;
+    
+    list<msg>::iterator it = ls.begin();
+    while (it != ls.end())
+    {
+        if (name == CString(it->name.c_str()))
+        {
+            it = ls.erase(it); // 删除后，it自动指向“下一个元素”
+        }
+        else
+        {
+            ++it; // 不删除时，正常往后走
+        }
+    }
+	file.WriteDocLine(); // 保存修改后的数据
+}
+

@@ -18,7 +18,7 @@ struct msg
     int id;
     string name;
     int price;
-    int age;   // 库存
+    int num;   // 库存
     int count; // 销量
 };
 
@@ -45,6 +45,7 @@ public:
     void ReadDocLine();
     void WriteDocLine();
     void AddDocLine(CString name, int num, int price);
+    void DeleteDocLine(CString name);
 
 public:
     // 必须为 public 且为 list，因为其他对话框直接访问了这个成员
