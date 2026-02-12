@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  calendarbar.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApplication2.cpp
+  MFCApplication2Doc.cpp
+  MFCApplication2View.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  正在生成代码...
+  MFCApplication2.vcxproj -> D:\cpp\MFCApplication2\x64\Debug\MFCApplication2.exe
