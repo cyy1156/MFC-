@@ -1,8 +1,0 @@
-ID|Name|Price|Stock|Sales
-1|Apple iPhone 14|5999|78|78
-2|Huawei Mate 60 Pro|6999|56|123
-4|Samsung S24 Ultra|7999|34|89
-5|Vivo X100|4999|87|156
-6|Oppo Find X7|5299|65|112
-8|Lenovo Legion Y9000P|8499|29|63
-9|Dell XPS 15|12999|18|41
