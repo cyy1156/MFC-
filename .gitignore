@@ -10,7 +10,7 @@
 x64/
 x86/
 
-
+*.ipch
 *.pch
 *.pdb
 *.idb
